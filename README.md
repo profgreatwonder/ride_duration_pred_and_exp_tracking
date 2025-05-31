@@ -1,3 +1,3 @@
 # Ride Prediction with MLOps
 
-mflow ui --backend-store-uri sqlite:///mflow.db
+mlflow ui --backend-store-uri sqlite:///mlflow.db
